@@ -1,0 +1,1 @@
+# Naive_Bayes_classifer_for_Fake_News_recognition
